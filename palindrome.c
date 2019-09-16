@@ -15,5 +15,5 @@ if(temp==sum)
 printf("it is a palindrome number ");    
 else    
 printf("it is not a palindrome number");   
-return 0;  
+//return 0;  
 }  
